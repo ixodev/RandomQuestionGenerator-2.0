@@ -1,7 +1,8 @@
 # RQG v2.0, written by Younès B. and Curtis Newton
 # December 2022
+# Background image from Wikipedia
 
-try: import pygame as pg, tkinter, tkinter.messagebox, random, webbrowser
+try: import pygame as pg, random, webbrowser
 except ImportError: raise SystemExit("Sorry, can´t find required libraries.")
 
 pg.init()
